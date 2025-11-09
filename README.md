@@ -7,7 +7,7 @@
 ⚡ Sự thật thú vị: tôi có khả năng tự học khá nhanh so với các bạn đồng trang lứa
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1B8WMs4ZQL/?mibextid=wwXIfr) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1B8WMs4ZQL/?mibextid=wwXIfr) 
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
